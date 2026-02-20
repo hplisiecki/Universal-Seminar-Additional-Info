@@ -1,11 +1,13 @@
-# Seminarium IP PAN
+# Winter Seminar
 
-Aplikacja SSD https://github.com/hplisiecki/SSD_APP
+SSD APP https://github.com/hplisiecki/SSD_APP
 
-Paczka Python ssdiff https://github.com/hplisiecki/Supervised-Semantic-Differential
+Python ssdiff library  https://github.com/hplisiecki/Supervised-Semantic-Differential
 
-Oryginalny Paper SSD https://doi.org/10.31234/osf.io/gvrsb_v1
+Original SSD preprint https://doi.org/10.31234/osf.io/gvrsb_v1
 
-Preprint SSD https://doi.org/10.31234/osf.io/r8y6b_v1
+Another preprint:
+Computational Phenomenology of Self and Time in Borderline and Narcissistic Personality Disorders: Cross-Group Supervised Semantic Differential
+https://doi.org/10.31234/osf.io/r8y6b_v1
 
-Mój Linkedin https://www.linkedin.com/in/hubert-plisiecki-64182b1ab/
+My Linkedin https://www.linkedin.com/in/hubert-plisiecki-64182b1ab/
